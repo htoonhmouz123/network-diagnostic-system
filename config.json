@@ -1,0 +1,19 @@
+{
+  "Student ID": "1230706",
+  "TCP Port": null,
+  "HTTP Port": null,
+  "Server Host": "localhost",
+  "Log File": "logs/server.log",
+  "Stats File": "data/stats.json",
+  "MAX Clients": 10,
+  "Default Homepage": "/",
+  "Team": {
+    "team_number": "T033",
+    "course": "ENCS3320 - Computer Networks",
+    "members": [
+      {"name": "Hatoon Hmouz", "section": "3"},
+      {"name": "Tamara Abu Ajaj", "section": "3"},
+      {"name": "Mayar Shweiki", "section": "3"}
+    ]
+  }
+}
